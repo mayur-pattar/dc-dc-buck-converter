@@ -40,4 +40,5 @@ flowchart LR
         Driver --> Q1
     end
 ```
-<img width="1140" height="362" alt="image" src="https://github.com/user-attachments/assets/79816fb5-15e2-4fb8-a331-6e66b0dd070f" />
+<img width="2424" height="642" alt="flow chart" src="https://github.com/user-attachments/assets/2ddf84b5-297f-4337-9350-956eb3c3dd3c" />
+
